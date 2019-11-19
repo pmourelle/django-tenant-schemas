@@ -21,6 +21,7 @@ setup(
         'tenant_schemas.management',
         'tenant_schemas.management.commands',
         'tenant_schemas.template',
+        'tenant_schemas.template.loaders',
         'tenant_schemas.templatetags',
         'tenant_schemas.test',
         'tenant_schemas.tests',
